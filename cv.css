@@ -1,0 +1,18 @@
+body {
+  background-color:white;
+}
+h1 {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+    font-size: 36px; /* حجم الخط */
+    color: #333; /* لون النص */
+    text-align: left; 
+}
+p {
+  color: red;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px; /* حجم الخط */
+    line-height: 1.6; /* ارتفاع السطر لتحسين القراءة 
+    
+}
+}
